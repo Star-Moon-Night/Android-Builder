@@ -10,7 +10,7 @@
       "toolchains": [
     {
       "name": "clang",
-      "url": "https://android.googlesource.com/platform/prebuilts/clang/host/linux-x86/+archive/refs/heads/android12-release/clang-r416183b.tar.gz",
+      "url": "https://storage.xzr.moe/horizon-clang/Horizon-Clang-17.0.6.tar.xz",
       "binaryEnv": ["./bin"]
     },
     {
