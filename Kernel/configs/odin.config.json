@@ -5,7 +5,7 @@
       "repo": "https://github.com/Diva-Room/Miku_kernel_xiaomi_modina",
       "branch": "Udon",
       "device": "odin",
-      "defconfig": "vendor/lahaina-qgki-defconfig"
+      "defconfig": "vendor/lahaina-qgki_defconfig"
     },
       "toolchains": [
     {
