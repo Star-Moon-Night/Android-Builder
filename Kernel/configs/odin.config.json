@@ -11,7 +11,7 @@
     {
       "name": "clang",
       "url": "https://storage.xzr.moe/horizon-clang/Horizon-Clang-17.0.6.tar.xz",
-      "binaryEnv": ["./bin"]
+      "binaryEnv": ["/bin"]
     },
     {
     "name": "gcc",
